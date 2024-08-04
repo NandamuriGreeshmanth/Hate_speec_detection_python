@@ -1,0 +1,1 @@
+. The rampant spread of hate speech online fosters a toxic environment and targets vulnerable groups. This work explores automated hate speech detection methods to mitigate this issue. We delve into the challenges of classifying text as hateful or not, considering the nuances of language and the subjective nature of offensiveness.
